@@ -6,9 +6,13 @@
 #use a gem 'faker'
 #pushing to git
 
+require "faker"
 
+puts
 Class Beginning
 end
 
 Class Adventure
 end
+
+
